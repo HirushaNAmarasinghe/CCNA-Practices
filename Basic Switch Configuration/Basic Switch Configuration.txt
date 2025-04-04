@@ -1,0 +1,192 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2821
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\fswiss\fcharset0 Helvetica;\f2\froman\fcharset0 TimesNewRomanPSMT;
+\f3\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0\c84706;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid101\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid102\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li1440\lin1440 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa213\partightenfactor0
+
+\f0\b\fs32 \cf2 \expnd0\expndtw0\kerning0
+Basic Switch Configuration Activity\
+
+\f1\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa213\partightenfactor0
+\ls1\ilvl0
+\f0\b \cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Scenario\
+\pard\tx720\pardeftab720\sa213\partightenfactor0
+
+\f1\b0 \cf2 \
+\pard\tx940\tx1440\pardeftab720\li1440\fi-1440\sa213\partightenfactor0
+\ls2\ilvl1
+\f2 \cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u9642 	}\expnd0\expndtw0\kerning0
+You are tasked with configuring a Cisco Catalyst 3650-24PS multilayer switch (
+\f0\b S2
+\f2\b0 ) and a PC (
+\f0\b PC-B
+\f2\b0 ). The initial switch configuration must be performed using a 
+\f0\b console cable connection
+\f2\b0 . Once the switch is accessible, assign IP addresses to VLAN 88 and verify connectivity between the switch and PC using both 
+\f0\b IPv4 and IPv6
+\f2\b0 .
+\f1 \
+\pard\pardeftab720\partightenfactor0
+
+\f2 \cf2 \'a0
+\f1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa213\partightenfactor0
+\ls3\ilvl0
+\f0\b \cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Addressing Table\
+\pard\tx720\pardeftab720\sa213\partightenfactor0
+
+\f1\b0 \cf2 \
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf3 \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sa213\qc\partightenfactor0
+
+\f0\b \cf2 Device
+\f1\b0 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\qc\partightenfactor0
+
+\f0\b \cf2 Interface
+\f1\b0 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\qc\partightenfactor0
+
+\f0\b \cf2 IP Address / Prefix
+\f1\b0 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f0\b \cf2 S2
+\f1\b0 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 VLAN 88
+\f1 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 172.16.10.2 /24
+\f1 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs24 \cf2 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2\fs32 \cf2 VLAN 88
+\f1 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 2001:db8:acad:2::2 /64
+\f1 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs24 \cf2 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2\fs32 \cf2 VLAN 88
+\f1 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 fe80::2
+\f1 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f0\b \cf2 PC-B
+\f1\b0 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 NIC
+\f1 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 172.16.10.20 /24
+\f1 \cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth906\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrs\brdrw20\brdrcf3 \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx2880
+\clvertalt \clshdrawnil \clwWidth1289\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx5760
+\clvertalt \clshdrawnil \clwWidth3119\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrs\brdrw20\brdrcf3 \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl144 \clpadr144 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\partightenfactor0
+
+\f3\fs24 \cf2 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2\fs32 \cf2 NIC
+\f1 \cell 
+\pard\intbl\itap1\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 2001:db8:acad:2::20 /64
+\f1 \cell \lastrow\row
+\pard\pardeftab720\sa213\partightenfactor0
+
+\f2 \cf2 \'a0
+\f1 \
+\pard\pardeftab720\partightenfactor0
+
+\f2 \cf2 \'a0
+\f1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa213\partightenfactor0
+\ls4\ilvl0
+\f0\b \cf2 \kerning1\expnd0\expndtw0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+Instructions\
+\pard\tx720\pardeftab720\sa213\partightenfactor0
+
+\f1\b0 \cf2 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa213\partightenfactor0
+\ls5\ilvl0
+\f2 \cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+Connect to the switch via console cable.
+\f1 \
+\ls5\ilvl0
+\f2 \kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+Configure VLAN 88 and assign it the IPv4 and IPv6 addresses listed above.
+\f1 \
+\ls5\ilvl0
+\f2 \kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+Assign GigabitEthernet1/0/1 to GigabitEthernet1/0/24 to VLAN 88 and ensure it is up.
+\f1 \
+\ls5\ilvl0
+\f2 \kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+Configure the PC with the given IPv4 and IPv6 addresses.
+\f1 \
+\ls5\ilvl0
+\f2 \kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+Test connectivity using ping (IPv4 and IPv6) between the switch and PC.
+\f1 \
+\ls5\ilvl0
+\f2 \kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
+Verify VLAN status, interface settings, and IP configurations using appropriate show commands.
+\f1 \
+\pard\pardeftab720\sa213\partightenfactor0
+\cf2 \'a0\
+}
